@@ -151,7 +151,11 @@ footer {
     color: #FFF;
     margin-bottom: 20px;
 }
+h1{
+    text-align: center;
+    padding-top: 25%;
 
+}
 .resume-button {
     display: inline-block;
     background-color: #007bff;
